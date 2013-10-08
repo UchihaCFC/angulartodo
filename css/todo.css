@@ -1,0 +1,22 @@
+/*
+Estilos para app de ToDo's muy básica con AngularJS
+Author: @UchihaCFC;
+*/
+.ok-true {
+	text-decoration: line-through;
+	color:green;
+}
+.form-control{
+	display:inline-block;
+	width: 30%;
+}
+
+.tareas {
+	border: 1px solid #ccc;
+	color:grey;
+	-webkit-border-radius: 15px;
+    border-radius: 15px;
+	margin:5px;
+	padding: 10px;
+	width: 450px;
+}
